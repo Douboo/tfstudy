@@ -1,6 +1,6 @@
 # tfstudy
 >study tensorflow
 
-Reference website:
+reference website:
 
-[tensorflow](https://tensorflow.google.cn/tutorials/).
+[tensorflow](https://tensorflow.google.cn/tutorials/)
